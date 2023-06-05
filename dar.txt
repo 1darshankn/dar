@@ -1,6 +1,7 @@
 public class dar {
     public static void main(String[] args) {
         System.out.println("Hello,thiwdgefgkjjljkglrd World!"); 
+        System.out.println("Hello,ganesh the word!"); 
     }
 }
 
